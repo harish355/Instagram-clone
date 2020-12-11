@@ -3,7 +3,7 @@ import firebase from "firebase";
 
 const firebaseapp=firebase.initializeApp(
 {
-
+  //Add Your Firebase Project details
   }
   );
 
